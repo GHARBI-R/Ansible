@@ -4,4 +4,4 @@
   vars_files:
     - files/secrets/crededentials.yaml
   roles:
-    - { role: basic-apache-container}
+    - { role: apache}
